@@ -43,7 +43,7 @@ Simple boilerplate to kick start your testng-cucumber maven java project with so
       }
       }
 
-#### Cucumber Options
+#### Cucumber Options ver
 >     @CucumberOptions(
       	strict = true,
       	monochrome = true,
